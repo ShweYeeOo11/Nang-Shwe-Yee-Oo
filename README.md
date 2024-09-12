@@ -14,13 +14,13 @@
 ---
 
 ## 🎵 Current Favorite Song:
-[![Seventeen - Maestro][(https://youtu.be/ThI0pBAbFnk?si=BuvQOCzFYo-CihJn)](https://youtu.be/ThI0pBAbFnk?si=BuvQOCzFYo-CihJn)]  
-_"Maestro" by Seventeen_ - Check it out!
+["Maestro by Seventeen"](https://youtu.be/ThI0pBAbFnk?si=BuvQOCzFYo-CihJn) 
+Check it out!
 
 ---
 
 ## 📺 Favorite K-Drama:
-![K-Drama] (https://en.wikipedia.org/wiki/Love_Next_Door)
+[Love Next Door](https://en.wikipedia.org/wiki/Love_Next_Door)
 _The world of K-dramas is magical!_
 
 ---
