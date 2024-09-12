@@ -14,7 +14,7 @@
 ---
 
 ## 🎵 Current Favorite Song:
-[![Seventeen - Maestro](https://youtu.be/ThI0pBAbFnk?si=BuvQOCzFYo-CihJn)]  
+[![Seventeen - Maestro][(https://youtu.be/ThI0pBAbFnk?si=BuvQOCzFYo-CihJn)](https://youtu.be/ThI0pBAbFnk?si=BuvQOCzFYo-CihJn)]  
 _"Maestro" by Seventeen_ - Check it out!
 
 ---
